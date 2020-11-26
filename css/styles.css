@@ -1,26 +1,26 @@
 /* common styles */
-* {
-    padding: 0;
-    margin: 0;
-}
+/** {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
 
-body {
-    width: 100vw;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    background: linear-gradient(#F00000, #DC281E);
-    font-family: sans-serif;
-}
+/*body {*/
+/*    width: 100vw;*/
+/*    min-height: 100vh;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    background: linear-gradient(#F00000, #DC281E);*/
+/*    font-family: sans-serif;*/
+/*}*/
 
-button:hover {
-    cursor: pointer;
-    background-color: #73E831;
-}
+/*button:hover {*/
+/*    cursor: pointer;*/
+/*    background-color: #73E831;*/
+/*}*/
 
-ul {
-    list-style-type: none; /* get rid of bullet points on side of list items */
-}
+/*ul {*/
+/*    list-style-type: none; !* get rid of bullet points on side of list items *!*/
+/*}*/
 
 /* common style ends */
 
@@ -34,7 +34,6 @@ ul {
 }
 
 h1 {
-    color: #fff;
     font-size: 3rem;
 }
 
@@ -55,13 +54,7 @@ h1 {
 }
 
 .add-button {
-    background-color: #0000ff;
-    color: #fff;
-    border: none;
-    outline: none;
-    border-radius: 5px;
-    padding: 7px;
-    font-size: 1.2rem;
+    margin-top: 5px;
 }
 
 /* todo-form style ends */
@@ -96,7 +89,6 @@ h1 {
 
 .delete-button {
     float: right;
-    background-color: #dc143c;
     border: none;
     outline: none;
     border-radius: 7px;
@@ -106,7 +98,7 @@ h1 {
     font-weight: 550;
 }
 
-/* applied when the todo item is checked */
+ applied when the todo item is checked
 .checked {
     text-decoration: line-through;
 }

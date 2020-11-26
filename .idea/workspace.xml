@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778f64a4-9423-48f7-bf0b-6739970300ec" name="Default Changelist" comment="" />
+    <list default="true" id="778f64a4-9423-48f7-bf0b-6739970300ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +21,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kpu2jF6JBeZuE77mDTfvEwoWv5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -42,14 +54,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606409648344</updated>
-      <workItem from="1606409649400" duration="3509000" />
+      <workItem from="1606409649400" duration="7614000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="457" y="1776" width="355" height="802" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1606422086931">
+      <screen x="0" y="1440" width="2560" height="1440" />
+    </state>
+    <state x="457" y="1776" width="355" height="802" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.1440.2560.1440/2560.0.2560.1440/2560.1440.1920.1200@0.1440.2560.1440" timestamp="1606422086931" />
+    <state x="505" y="2076" width="472" height="309" key="Github.ShareDialog" timestamp="1606413241017">
+      <screen x="0" y="1440" width="2560" height="1440" />
+    </state>
+    <state x="505" y="2076" width="472" height="309" key="Github.ShareDialog/0.1440.2560.1440/2560.0.2560.1440/2560.1440.1920.1200@0.1440.2560.1440" timestamp="1606413241017" />
+    <state x="411" y="1795" width="448" height="763" key="Github.UntrackedFilesDialog" timestamp="1606413246375">
+      <screen x="0" y="1440" width="2560" height="1440" />
+    </state>
+    <state x="411" y="1795" width="448" height="763" key="Github.UntrackedFilesDialog/0.1440.2560.1440/2560.0.2560.1440/2560.1440.1920.1200@0.1440.2560.1440" timestamp="1606413246375" />
     <state x="211" y="1864" width="848" height="626" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606409851591">
       <screen x="0" y="1440" width="2560" height="1440" />
     </state>
